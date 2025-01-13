@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Selenium, Cypress, Playwright, Jira.**
 
+- 💬 Ask me about **Postman , Manual Testing ,Test Case, Bug Reporting.**
+
 - 📫 How to reach me **bajracharyaprabisha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
